@@ -14,7 +14,21 @@
 			
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
-				"vscjava.vscode-java-pack"
+				"dbaeumer.vscode-eslint",
+				"ms-azuretools.vscode-docker",
+				"ms-vscode.azurecli",
+				"Pivotal.vscode-boot-dev-pack",
+				"Pivotal.vscode-spring-boot",
+				"redhat.java",
+				"redhat.vscode-yaml",
+				"VisualStudioExptTeam.vscodeintellicode",
+				"vscjava.vscode-java-debug",
+				"vscjava.vscode-java-dependency",
+				"vscjava.vscode-java-pack",
+				"vscjava.vscode-java-test",
+				"vscjava.vscode-maven",
+				"vscjava.vscode-spring-boot-dashboard",
+				"vscjava.vscode-spring-initializr"
 			]
 		}
 	},
